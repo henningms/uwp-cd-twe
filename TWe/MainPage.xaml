@@ -1,0 +1,25 @@
+﻿<Page
+    x:Class="TWe.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:local="using:TWe"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+        <Grid.RowDefinitions>
+            <RowDefinition />
+            <RowDefinition Height="Auto" />
+        </Grid.RowDefinitions>
+        <WebView Grid.Row="0" Source="https://twe.no/channels/7000/direkte-tv/asset/live/4461367/eurosport-norge" />
+        <Button
+            x:Name="EnterCompactMode"
+            Grid.Row="1"
+            HorizontalAlignment="Stretch"
+            Background="White"
+            Click="EnterCompactMode_Click"
+            Content="SKRU PÅ BILDE-I-BILDE SÅ JEG KAN GJØRE ANDRE TING MENS JEG SER PÅ DETTE"
+            Foreground="Blue" />
+    </Grid>
+</Page>
