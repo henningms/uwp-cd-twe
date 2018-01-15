@@ -10,5 +10,5 @@ Download the dependencies (either x64 or x86) and then install the .appxbundle f
 
 But if you did enjoy this little piece of software and you REALLY.. and I mean REALLY want to donate to me then I won't stop you. 
 
-[![paypal](https://www.paypalobjects.com/en_US/NO/i/btn/btn_donateCC_LG.gif](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=NSKADA6BUCTQ2E)
+[![PayPayl](https://www.paypalobjects.com/en_US/NO/i/btn/btn_donateCC_LG.gif](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=NSKADA6BUCTQ2E)
 
