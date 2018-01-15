@@ -19,7 +19,7 @@
             HorizontalAlignment="Stretch"
             Background="White"
             Click="EnterCompactMode_Click"
-            Content="SKRU PÅ BILDE-I-BILDE SÅ JEG KAN GJØRE ANDRE TING MENS JEG SER PÅ DETTE"
+            Content="TURN ON PICTURE-IN-PICTURE SO I CAN DO OTHER STUFF WHILE WATCHING"
             Foreground="Blue" />
     </Grid>
 </Page>
